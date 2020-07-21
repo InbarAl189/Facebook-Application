@@ -7,6 +7,7 @@
 - Data Binding
 
 **NOTE:** Only facebook developer user can SignIn, and only facebook developer users will appear in the friends list. <br>
+
 **Screenshots:** <br>
 [![login.png](https://i.postimg.cc/DwtZtNDy/login.png)](https://postimg.cc/mPyB9mB0)
 [![home-page.jpg](https://i.postimg.cc/1574KXrF/home-page.jpg)](https://postimg.cc/N5TgsgVG)
