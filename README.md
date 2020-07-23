@@ -1,11 +1,11 @@
 # Facebook Application
-## Facebook desktop application using Facebook API (.NET Framework 4, WinForms, Visual Studio), Design Patterns ,Multi-Threading, Serialization, Delegates, Reflection and Generics.<br>The app provides a basic Facebook experience.<br>Developed as part of Design Patterns (C#) course.
-
+## Facebook desktop application using Facebook API (.NET Framework 4, WinForms, Visual Studio) that provides a basic Facebook experience, developed as part of Design Patterns (C#) course.
 
 
 **Features:**
 - Six Design Patterns 
 - Multithreading 
+- Serialization
 - Data Binding
 
 **NOTE:** Only facebook developer user can SignIn, and only facebook developer users will appear in the friends list. <br>
